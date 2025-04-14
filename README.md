@@ -23,14 +23,14 @@
 * Heatmaps and pair plots for item correlation 🎨
 
 ### 💡 Suggestions for Improvement
-📌 Include Data Source:
-The dataset loading is missing (e.g., no read_csv present). Please ensure the data is either added or linked for reproducibility.
+##### 📌 Include Data Source:
+* The dataset loading is missing (e.g., no read_csv present). Please ensure the data is either added or linked for reproducibility.
 
-📌 Parameter Tuning:
-Explore a wider range of min_support and min_confidence values to generate more diverse rules.
+##### 📌 Parameter Tuning:
+* Explore a wider range of min_support and min_confidence values to generate more diverse rules.
 
-📌 Interactive Dashboard:
-Consider using Plotly or Streamlit for an interactive visualization experience.
+##### 📌 Interactive Dashboard:
+* Consider using Plotly or Streamlit for an interactive visualization experience.
 
-📌 Performance Optimization:
-Add runtime metrics to track performance for large datasets.
+##### 📌 Performance Optimization:
+* Add runtime metrics to track performance for large datasets.
